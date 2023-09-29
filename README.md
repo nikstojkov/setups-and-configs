@@ -65,9 +65,9 @@ Description:
 
 <h1>ADDING MONGODB</h1>
 
-<h3> Rails new that skips SQL DB </h3>
-<strong>rails new APPNAME --skip-active-record</strong>
-<p>Add monogo DB gem later</p>
+<h2> Rails new that skips SQL DB </h2>
+<p>rails new APPNAME --skip-active-record</p>
+<i>Add monogo DB gem later</i>
 
 <h3>skips testing to allow room for rspec</h3>
 <strong>-T</strong>
