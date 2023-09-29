@@ -67,8 +67,8 @@ Description:
 
 <h3> Rails new that skips SQL DB </h3>
 <strong>rails new APPNAME --skip-active-record</strong>
-Add monogo DB gem later
+<p>Add monogo DB gem later</p>
 
 <h3>skips testing to allow room for rspec</h3>
 <strong>-T</strong>
-add rspec gem to test and development later
+<p>Add rspec gem to test and development later</p>
